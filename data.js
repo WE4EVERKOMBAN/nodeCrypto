@@ -1,20 +1,20 @@
 module.exports = {
 
-mongoLink:'xxxx',// Database Link Of MongoDB
+mongoLink:'mongodb+srv://Data1:Data1@cluster0.ekxpn.mongodb.net/?retryWrites=true&w=majority',// Database Link Of MongoDB
 
 apikey:'xxxx',// Coinbase API Key
 
 secretkey:'xxxxxx',// Coinbase 2nd Key
 
-bot_token:'xxxx',// Bot Token
+bot_token:'5466873914:AAFPbX5MCCw63hYOyAcgYT10uQhKwImdGjQ',// Bot Token
 
-bot_name:'xxxx',// Bot Username Without @
+bot_name:'http://t.me/Impulse_XAirdropBot',// Bot Username Without @
 
-bot_admin:1234567890,// Admin Telegram Id
+bot_admin:'895687774',// Admin Telegram Id
 
-channelsList : ['@TXTPayouts'],// Channels List
+channelsList : ['@AirdopAssasin'],// Channels List
 
-channelscheck : ['@Cha'],// Check Channels List
+channelscheck : ['@AirdopAssasin'],// Check Channels List
 
 reffer_bonus:0.01,// Refferal Bonus Amount
 
@@ -24,6 +24,6 @@ daily_bonus:0.01,// Daily Bonus Amount
 
 currency:'DOGE', // Bot Currency
 
-payment_channel:'@Cha'// Payment Channel Username
+payment_channel:'@ImpulseXAirdrop'// Payment Channel Username
 
 }
