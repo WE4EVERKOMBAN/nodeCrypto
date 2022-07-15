@@ -1,7 +1,7 @@
 {
-  "name": "coinbasebot",
+  "name": "ImpulseXAirdropBot",
   "version": "1.0.0",
-  "description": "coinbasebot",
+  "description": "ImpulseXAirdropBot",
   "main": "bot.js",
   "scripts": {
     "start": "node bot.js"
