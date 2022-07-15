@@ -16,13 +16,13 @@ channelsList : ['@AirdopAssasin'],// Channels List
 
 channelscheck : ['@AirdopAssasin'],// Check Channels List
 
-reffer_bonus:0.01,// Refferal Bonus Amount
+reffer_bonus:100000,// Refferal Bonus Amount
 
-min_wd:0.001,// Min Withdrawal Amount
+min_wd:300000,// Min Withdrawal Amount
 
-daily_bonus:0.01,// Daily Bonus Amount
+daily_bonus:100,// Daily Bonus Amount
 
-currency:'DOGE', // Bot Currency
+currency:'IMX', // Bot Currency
 
 payment_channel:'@ImpulseXAirdrop'// Payment Channel Username
 
