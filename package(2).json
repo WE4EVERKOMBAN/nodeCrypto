@@ -1,7 +1,18 @@
 {
-  "name": "coinbasebot",
+  "name": "ImpulseXAirdropBot",
   "version": "1.0.0",
-  "description": "coinbasebot",
+  "description": "Token Information:
+
+Network: TomoChain
+Name: Impulse X
+Symbol: IMX
+Decimals: 18
+Contract Address:0xa79fc9c7871c8d09ccabb250b978328eb4a17402
+
+👥 Referral:  100,000 $IMX
+‼️ Withdraw: 300,000 $IMX
+
+If you have followed our YouTube channel and Twitter, you will instantly recieve the payment✅✅",
   "main": "index.js",
   "scripts": {
     "start": "node index.js"
