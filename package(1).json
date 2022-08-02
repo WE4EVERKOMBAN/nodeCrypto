@@ -1,0 +1,22 @@
+{
+  "name": "amantry",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.21.1",
+    "mongo": "^0.1.0",
+    "nodemon": "^2.0.12",
+    "telegraf": "^4.4.0",
+    "text-to-image": "^4.0.0",
+    "trongrid": "^1.2.6",
+    "tronweb": "^3.2.7",
+    "web3": "^1.5.2"
+  }
+}
